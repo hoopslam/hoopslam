@@ -1,18 +1,18 @@
 Hi, I’m David, a web developer originally from Los Angeles and currently residing in Seoul.
   
-Things I love:  
+Things I love:
   * Cuddling my cat  
   * Making Web Apps  
   * Shootin hoops  
   * Grinding coffee  
   * Fermenting kimchi  
       
-Things I learned:  
+Things I learned:
   * HTML, CSS, Javascript  
   * React, Redux  
   * Node, Express, PostGres, MongoDB  
       
-Things I'm learning:  
+Things I'm learning:
   * Gatsby, Next.js  
   * JAM stack, serverless, Firebase, OAuth  
   
