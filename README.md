@@ -8,7 +8,7 @@ Things I love:
   * Fermenting kimchi  
       
 Things I learned:
-  * HTML5, CSS3, Bootstrap, Sass, Javascript ES6 ++,  
+  * HTML5, CSS3, Bootstrap, Sass, Javascript ES6 and beyond,  
   * React w/ hooks, Redux
   * Node, Express, PostGres, MongoDB  
       
