@@ -1,20 +1,21 @@
 Hi, I’m David, a web developer originally from Los Angeles and currently residing in Seoul.
   
 Things I love:
-  * Cuddling my cat  
-  * Making Web Apps  
+  * My cat, Miru  
+  * Making web Apps
   * Shootin hoops  
-  * Grinding coffee  
+  * Shuffling furniture around/Reorganizing my house constantly
   * Fermenting kimchi  
       
 Things I learned:
-  * HTML, CSS, Javascript  
-  * React, Redux  
+  * HTML5, CSS3, Bootstrap, Sass, Javascript ES6 ++,  
+  * React w/ hooks, Redux
   * Node, Express, PostGres, MongoDB  
       
 Things I'm learning:
   * Gatsby, Next.js  
-  * JAM stack, serverless, Firebase, OAuth  
+  * JAM stack, serverless, Firebase, Auth
+  * Material-UI
   
 How to reach me: hoopslam@gmail.com
 
