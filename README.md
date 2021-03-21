@@ -1,5 +1,5 @@
 # Hi, I’m David 
-### a web developer based in Seoul
+### A Web Developer based in Seoul
 
 ---
   
