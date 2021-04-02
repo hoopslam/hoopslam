@@ -23,8 +23,7 @@
 ## Things I plan to learn:
   * React Native
   * Tailwind
-  * Flutter
-  * C#
+  * Vue
 
 ---
   
