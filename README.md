@@ -5,20 +5,26 @@
   
 ## Things I love:
   * My cat, Miru  
-  * Making web Apps
+  * Making awesome Apps
   * Shootin hoops  
   * Shuffling furniture around/Reorganizing my house constantly
   * Fermenting kimchi  
       
 ## Things I learned:
-  * HTML5, CSS3, Bootstrap, Sass, Javascript ES6 and beyond,  
-  * React w/ hooks, Redux
-  * Node, Express, PostGres, MongoDB  
+  * HTML5, CSS3, Javascript ES6 and beyond,  
+  * React, Redux, Next.js
+  * Bootstrap, Material-UI, CSS Modules, Sass
+  * Node, Express, PostGres, MongoDB, Rest, GraphQL
       
 ## Things I'm learning:
-  * Gatsby, Next.js  
-  * JAM stack, serverless, Firebase, Auth
-  * Material-UI
+  * React, Next.js  
+  * JAM stack
+
+## Things I plan to learn:
+  * React Native
+  * Tailwind
+  * Flutter
+  * C#
 
 ---
   
