@@ -12,9 +12,9 @@
       
 ## Things I learned:
   * HTML5, CSS3, Javascript ES6 and beyond,  
-  * React, Redux, Next.js
-  * Bootstrap, Material-UI, CSS Modules, Sass
-  * Node, Express, PostGres, MongoDB, Rest, GraphQL
+  * React, Redux, Next.js, Gatsby
+  * Bootstrap, Material-UI, CSS Modules, Sass, Styled Components
+  * Node, Express, Firebase, PostGres, MongoDB, Rest, GraphQL
       
 ## Things I'm learning:
   * React, Next.js  
@@ -22,7 +22,6 @@
 
 ## Things I plan to learn:
   * React Native
-  * Tailwind
   * Vue
 
 ---
