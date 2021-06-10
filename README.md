@@ -17,8 +17,8 @@
   * Node, Express, Firebase, PostGres, MongoDB, Rest, GraphQL
       
 ## Things I'm learning:
-  * React, Next.js  
-  * JAM stack
+  * Ruby
+  * Python
 
 ## Things I plan to learn:
   * React Native
