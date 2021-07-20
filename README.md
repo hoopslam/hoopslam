@@ -17,8 +17,8 @@
   * Node, Express, Firebase, PostGres, MongoDB, Rest, GraphQL
       
 ## Things I'm learning:
-  * Ruby
-  * Python
+  * Typescript
+  * Web Sockets
 
 ## Things I plan to learn:
   * React Native
