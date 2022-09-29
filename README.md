@@ -7,7 +7,7 @@
   * My cat, Miru  
   * Making awesome Apps
   * Shootin hoops  
-  * Shuffling furniture around/Reorganizing my house constantly
+  * Moving around furniture
   * Fermenting kimchi  
       
 ## Things I'm good at:
