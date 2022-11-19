@@ -12,15 +12,15 @@
       
 ## Things I'm good at:
   * HTML, Javascript, Typescript, CSS  
-  * React, React Native, Redux, Recoil, MobX, Next.js
-  * Bootstrap, Material-UI, CSS Modules, Sass, Styled Components
-  * Node, Express, Firebase, PostGres, MongoDB, Rest, GraphQL
+  * React, Next.js
+  * Styled Components, Tailwind, Material-UI
+  * Node, Express, MongoDB, Rest, GraphQL
       
 ## Things I'm learning:
-  * Java, Kotlin
+  * Mobile App Dev
 
 ## Things I plan to learn:
-  * C#, Unity
+  * Flutter, Kotlin
 
 ---
   
