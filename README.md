@@ -10,10 +10,10 @@
   * Moving around furniture
   * Fermenting kimchi  
       
-## Things I'm good at:
-  * HTML, Javascript, Typescript, CSS  
-  * React, Next.js
-  * Styled Components, Tailwind, Material-UI
+## Things I know:
+  * Javascript, Typescript  
+  * Reactjs, React Native Next.js
+  * CSS, SASS, Styled Components, Tailwind, Material-UI
   * Node, Express, MongoDB, Rest, GraphQL
       
 ## Things I'm learning:
