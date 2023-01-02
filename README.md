@@ -4,15 +4,16 @@
 ---
   
 ## Things I love:
-  * My cat, Miru  
+  * My wife and cat  
   * Making awesome Apps
-  * Shootin hoops  
-  * Moving around furniture
-  * Fermenting kimchi  
+  * Shootin hoops
+  * Playing games (Overwatch, PUBG, Civ)  
+  * Moving furniture around
+  * Mexican food
       
 ## Things I know:
   * Javascript, Typescript  
-  * Reactjs, React Native Next.js
+  * Reactjs, React Native, Next.js
   * CSS, SASS, Styled Components, Tailwind, Material-UI
   * Node, Express, MongoDB, Rest, GraphQL
       
@@ -20,7 +21,7 @@
   * Mobile App Dev
 
 ## Things I plan to learn:
-  * Flutter, Kotlin
+  * Flutter
 
 ---
   
